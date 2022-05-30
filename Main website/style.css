@@ -34,12 +34,13 @@ body{
   width: 75%;
   background-color: #ffe6e6;
   border: 2px;
-  border-style: solid;
-  border-color: black;
+  border-style: groove;
+  border-color: grey;
   padding: 20px;
   margin-top: 20px;
   text-align: center;
   margin-right: 2%;
+  height: auto;
 }
 
 .leftMain{
